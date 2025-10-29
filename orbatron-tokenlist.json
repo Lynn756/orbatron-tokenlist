@@ -1,16 +1,33 @@
 {
   "name": "Orbatron Token List",
-  "timestamp": "2025-10-03T00:00:00.000Z",
-
-  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafyb...75aly",
+  "timestamp": "2025-10-29T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
   "tokens": [
     {
       "chainId": 8453,
-      "address": "0x259b9068fa3f1D6813bA9A8580Cda46337cBdaAd",
+      "address": "0x259B9068Fa3F1d6813bA9A8580CdA46337CbdaAd",
       "name": "Orbatron",
       "symbol": "OTRON",
       "decimals": 18,
-      "logoURI": "ipfs://bafkreig6kkjrgiqly2ob4j64635vmgskj2objk464lf6f5kzahtlfpgn6q"
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafyb...75aly",
+      "website": "https://orbatroncoin.com",
+      "description": "Orbatron powers a growing ecosystem on Base. Built on Base, Born of Light ⚡",
+      "links": [
+        {
+          "name": "twitter",
+          "url": "https://x.com/Orbatron143845"
+        },
+        {
+          "name": "telegram",
+          "url": "https://t.me/orbatronofficial"
+        }
+      ]
     }
   ]
 }
+
